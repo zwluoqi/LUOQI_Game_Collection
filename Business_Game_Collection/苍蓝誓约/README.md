@@ -1,3 +1,4 @@
+# 苍蓝誓约
 一款基于<a href="https://zh.moegirl.org.cn/舰队Collection">舰队Collection</a>复刻的二次元手游，<a href="https://apps.apple.com/jp/app/id1484471032">日服地址</a>
 
 | 截图 | 截图 | 截图 | 截图 | 截图 |
