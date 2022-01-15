@@ -1,0 +1,1 @@
+日服地址：https://apps.apple.com/jp/app/id1484471032
