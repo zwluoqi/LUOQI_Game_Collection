@@ -1,5 +1,5 @@
 # Qingzhu_Game_Collection
- 本人参与过的一些商业游戏和独立游戏的截图和业务描述
+ 本人参与过的一些商业游戏、独立游戏、技术项目的截图和业务简述
 
 
 | 游戏 | 截图 | 截图 | 截图 | 截图 |截图 |
@@ -14,4 +14,7 @@
 |<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Independent_Game_Collection/修仙破尘录">修仙破尘录</a>|暂未开源| ![](Independent_Game_Collection/修仙破尘录/iPhone_0.png) | ![](Independent_Game_Collection/修仙破尘录/iPhone_1.png) | ![](Independent_Game_Collection/修仙破尘录/iPhone_2.png) | ![](Independent_Game_Collection/修仙破尘录/iPhone_3.png) |
 |<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Independent_Game_Collection/宠物小精灵">宠物小精灵</a>|<a href="https://github.com/zwluoqi/RoundRpg">已经开源</a>| ![](Independent_Game_Collection/宠物小精灵/nor.png) | ![](Independent_Game_Collection/宠物小精灵/enc.png) |||
 |<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Independent_Game_Collection/呆萌消消看">呆萌消消看</a>|<a href="https://github.com/zwluoqi/sanxiao">已经开源</a>| ![](Independent_Game_Collection/呆萌消消看/1.jpg) | ![](Independent_Game_Collection/呆萌消消看/2.jpg) | ![](Independent_Game_Collection/呆萌消消看/3.jpg) | ![](Independent_Game_Collection/呆萌消消看/4.jpg)| 
+| 技术项目 | 
+|<a href="mobile-visual-shader-editor">VisualShaderGraph</a>|开源项目|一款跨平台着色器编辑工具|基于BGFX渲染器|
+|<a href="URP_Collection_Tech">URP_Collection_Tech</a>|开源项目|一些URP实践用例|GPU Driver、Jobsystem、ComputerShader、全局光照等|
 
