@@ -14,6 +14,6 @@
 |<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Independent_Game_Collection/宠物小精灵">宠物小精灵</a>|<a href="https://github.com/zwluoqi/RoundRpg">已经开源</a>| ![](Independent_Game_Collection/宠物小精灵/nor.png) | ![](Independent_Game_Collection/宠物小精灵/enc.png) |||
 |<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Independent_Game_Collection/呆萌消消看">呆萌消消看</a>|<a href="https://github.com/zwluoqi/sanxiao">已经开源</a>| ![](Independent_Game_Collection/呆萌消消看/1.jpg) | ![](Independent_Game_Collection/呆萌消消看/2.jpg) | ![](Independent_Game_Collection/呆萌消消看/3.jpg) | ![](Independent_Game_Collection/呆萌消消看/4.jpg)| 
 | 技术项目 | 
-|<a href="mobile-visual-shader-editor">VisualShaderGraph</a>|开源项目|一款跨平台着色器编辑工具|基于BGFX渲染器|
-|<a href="URP_Collection_Tech">URP_Collection_Tech</a>|开源项目|一些URP实践用例|GPU Driver、Jobsystem、ComputerShader、全局光照等|
+|<a href="https://github.com/zwluoqi/mobile-visual-shader-editor/wiki/Visual-Shader">VisualShaderGraph</a>|<a href="https://github.com/zwluoqi/mobile-visual-shader-editor">开源项目</a>|一款跨平台着色器编辑工具|基于BGFX渲染器|
+|URP_Collection_Tech|<a href="https://github.com/zwluoqi/URP_Collection_Tech">开源项目</a>|一些URP实践用例|GPU Driver、Jobsystem、ComputerShader、全局光照等|
 
