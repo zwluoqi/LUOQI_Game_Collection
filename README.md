@@ -16,4 +16,6 @@
 | 技术项目 | 
 |<a href="https://github.com/zwluoqi/mobile-visual-shader-editor/wiki/Visual-Shader">VisualShaderGraph</a>|<a href="https://github.com/zwluoqi/mobile-visual-shader-editor">开源项目</a>|一款跨平台着色器编辑工具||
 |URP_Collection_Tech|<a href="https://github.com/zwluoqi/URP_Collection_Tech">开源项目</a>|一些URP实践用例||
+|Shader_For_Beginer|<a href="https://github.com/zwluoqi/Shader_For_Beginer">开源项目</a>|基础Shader技术栈||
+
 
