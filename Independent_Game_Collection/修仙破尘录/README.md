@@ -1,8 +1,7 @@
-独立游戏，基于利益冲突原则，作品已下架
-
+# 修仙破尘录
 | 截图 | 截图 | 截图 | 截图 | 截图 | 截图 |
 | --- | - | --- | --- | - | --- |
-| ![](iPhone_0.png) | ![](iPhone_1.png) | ![](iPhone_2.png) | ![](iPhone_3.png) | ![](iPhone_4.png) | ![](iPhone_5.png) 
+| ![](images/iPhone_0.png) | ![](images/iPhone_1.png) | ![](images/iPhone_2.png) | ![](images/iPhone_3.png) | ![](images/iPhone_4.png) | ![](images/iPhone_5.png) 
 
 该作品是一款2D修仙放置类游戏，参考过多款不同类型的放置类、rougolike类游戏、魔兽RPG地图等，并有服务器支持。这款作品的开发过程中，主要是相关服务器的开发及部署的学习的实践、并伴随有相关数据库的使用。
 | 分类 | 方案 | 细节 |

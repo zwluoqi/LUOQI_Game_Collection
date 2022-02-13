@@ -1,10 +1,10 @@
 # 装备合成器
-独立游戏，基于web版本移植，基于利益冲突原则，作品已下架,<a href="https://github.com/zwluoqi/TextEquip">项目已开源</a>
+<a href="https://github.com/zwluoqi/TextEquip">项目已开源</a>
 
 
 | 截图 | 截图 | 截图 | 截图 | 截图 | 截图 |
 | --- | - | --- | --- | - | --- |
-| ![](0.PNG) | ![](1.PNG) | ![](2.PNG) | ![](3.PNG) | ![](4.PNG) |
+| ![](images/0.PNG) | ![](images/1.PNG) | ![](images/2.PNG) | ![](images/3.PNG) | ![](images/4.PNG) |
 
 
 该作品是一款纯挂机刷装备游戏

@@ -1,8 +1,7 @@
-独立游戏，基于利益冲突原则，作品已下架
-
+# 剑破仙界
 | 截图 | 截图 | 截图 | 截图 | 截图 | 截图 |
 | --- | - | --- | --- | - | --- |
-| ![](IMG_5356.PNG) | ![](IMG_5357.PNG) | ![](IMG_5358.PNG) | ![](IMG_5359.PNG) | ![](IMG_5360.PNG) | ![](IMG_5361.PNG) 
+| ![](images/IMG_5356.PNG) | ![](images/IMG_5357.PNG) | ![](images/IMG_5358.PNG) | ![](images/IMG_5359.PNG) | ![](images/IMG_5360.PNG) | ![](images/IMG_5361.PNG) 
 
 
 该作品是一款2D文字放置类游戏，参考过多款不同类型的放置类、rougolike类游戏。

@@ -3,7 +3,7 @@
 
 | 截图 | 截图 | 截图 | 截图 | 截图 | 
 | --- | - | --- | --- | - |
-| ![](iPhone_0.jpg) | ![](iPhone_1.jpg) | ![](iPhone_2.jpg) | ![](iPhone_3.jpg) | ![](iPhone_4.jpg) 
+| ![](images/iPhone_0.jpg) | ![](images/iPhone_1.jpg) | ![](images/iPhone_2.jpg) | ![](images/iPhone_3.jpg) | ![](images/iPhone_4.jpg) 
 
 
 | 分类 | 方案 | 细节 |

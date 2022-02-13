@@ -1,10 +1,10 @@
-
-独立游戏，基于利益冲突原则，作品已下架,<a href="https://github.com/zwluoqi/sanxiao">项目已开源</a>
+# 呆萌消消看
+<a href="https://github.com/zwluoqi/sanxiao">项目已开源</a>
 
 
 | 截图 | 截图 | 截图 | 截图 | 截图 | 截图 |
 | --- | - | --- | --- | - | --- |
-| ![](1.jpg) | ![](2.jpg) | ![](3.jpg) | ![](4.jpg) | ![](5.jpg) | ![](7.jpg) 
+| ![](images/1.jpg) | ![](images/2.jpg) | ![](images/3.jpg) | ![](images/4.jpg) | ![](images/5.jpg) | ![](images/7.jpg) 
 
 
 该作品是一款三消+RPG元素游戏，
