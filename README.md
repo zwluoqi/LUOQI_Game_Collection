@@ -1,2 +1,4 @@
 # Qingzhu_Game_Collection
-![个人主页](https://github.com/zwluoqi)
+
+<a href="https://github.com/zwluoqi">个人主页</a>
+
